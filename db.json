@@ -1,8 +1,29 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Éléphant",
+      "body": "Les éléphants sont des mammifères proboscidiens de la famille des Éléphantidés. Ils correspondent aujourd'hui à trois espèces réparties en deux genres distincts"
+    },
+     {
+      "userId": 2,
+      "id": 2,
+      "title": "Jaguar",
+      "body": "Le jaguar est un mammifère carnivore de la famille des Felidae. C'est l'un des cinq grands félins du genre Panthera, avec le tigre, le lion, la panthère des neiges et le léopard"
+    },
+    {
+      "userId": 3,
+      "id": 3,
+      "title": "Zèbre",
+      "body": "Zèbre est un nom vernaculaire, ambigu en français, pouvant désigner plusieurs espèces différentes d'herbivores de la famille des équidés, et du genre Equus, vivant en Afrique. Ils se trouvent principalement en Afrique centrale et australe."
+    },
+   {
+      "userId": 4,
+      "id": 4,
+      "title": "Rhinocéros",
+      "body": "Les rhinocéros sont les mammifères périssodactyles appartenant à la famille des rhinocérotidés. Toutes ses espèces sont actuellement en voie de disparition. Les rhinocéros font localement l'objet d'une protection et de projets de réintroduction. Ils sont très utiles pour fertiliser le sol."
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
